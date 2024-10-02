@@ -1,0 +1,106 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-glaho-web-caps/css/bpg-glaho-web-caps.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-banner-caps/css/bpg-banner-caps.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-elite-round-cond/css/bpg-nino-elite-round-cond.min.css");
+@import url("//cdn.web-fonts.ge/fonts/arial-geo-bold/css/arial-geo-bold.min.css");
+
+
+.centered_page {
+    width: 1291px;
+    margin: 54px auto 0 auto;
+}
+
+header {
+    margin-bottom: 44px;
+}
+
+.logo {
+    font-size: 48px;
+    font-weight: 700;
+    color: #30CBC2;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+.navigation {
+    display: inline-block;
+}
+
+.active_nav {
+    color: #4E6FAE;
+}
+
+li {
+    font-family: "Arial GEO Bold", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 81px;
+}
+
+.date {
+    font-size: 24px;
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    color: #84FF81;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 18px;
+}
+
+section {
+    margin-bottom: 155px;
+}
+
+.content_img {
+    margin-right: 50px;
+
+}
+
+.month {
+    font-family: "BPG Nino Elite Round Cond", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    font-style: italic;
+    color: #8D81FF;
+    margin-bottom: 8px;
+}
+
+.header {
+    font-family: "BPG Banner Caps", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #4E6FAE;
+    margin-bottom: 13px;
+}
+
+.description {
+    width: 778px;
+    font-family: "BPG Glaho WEB Caps", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #4E6FAE;
+    line-height: 19.2px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.different_description {
+    display: block;
+    margin-top: 32px;
+}
+
+footer {
+    margin-bottom: 285px;
+}
+
+.line {
+    display: inline-block;
+    background-color: #5012D5;
+    width: 2px;
+    height: 50px;
+    margin: 0 41px;
+}
